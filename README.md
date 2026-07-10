@@ -31,3 +31,5 @@ This project was built to practice front-end web development concepts, including
 * Dark mode
 * Search and filter functionality
 * User authentication
+
+## Intern ID - CITS4947
